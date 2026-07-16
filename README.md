@@ -87,4 +87,10 @@ siempre pertenece al desarrollador.
 - Automation Developer
 - Technical Problem Solver
 
+- # 📖 Filosofía del Bootcamp
+
+> *"La Inteligencia Artificial no sustituye al desarrollador. Potencia sus capacidades, acelera su aprendizaje y amplía su impacto cuando se utiliza con criterio, responsabilidad y pensamiento crítico."*
+
+-----------------------Hugo Jovel Web-----------------------------------------------------------------------
+
 
