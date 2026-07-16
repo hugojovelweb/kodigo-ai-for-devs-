@@ -1,16 +1,14 @@
 🚀  Kodigo Bootcamp | AI FOR DEVS |Hugo Jovel 
 
 > **Repositorio oficial de estudio, práctica y desarrollo del Bootcamp AI for Developers.**
->
+> 
 > # 📌 Descripción
 
 El Bootcamp **AI for Developers** tiene una duración aproximada de **6 semanas** con un enfoque eminentemente práctico (**80% hands-on**) donde el estudiante aprende a utilizar herramientas de Inteligencia Artificial como aceleradores del desarrollo de software moderno.
 
 Durante el programa se desarrolla una mentalidad **AI-First**, permitiendo diseñar, construir, optimizar y mantener aplicaciones utilizando IA como un copiloto técnico, sin perder el criterio ingenieril ni las buenas prácticas del desarrollo profesional.
 
-🎯 Objetivos del Bootcamp
-
-Al finalizar este bootcamp el desarrollador será capaz de:
+🎯 Objetivos del Bootcamp:
 
 - Comprender el paradigma AI-First Development.
 - Utilizar herramientas de IA para acelerar el ciclo de desarrollo.
@@ -23,9 +21,7 @@ Al finalizar este bootcamp el desarrollador será capaz de:
 - Integrar IA dentro de procesos reales de desarrollo.
 - Aplicar principios éticos y de responsabilidad en el uso de IA.
 
-- # 🧠 Competencias a Desarrollar
-
-Durante el programa se fortalecerán competencias como:
+- # 🧠 Competencias a Desarrollar:
 
 - Pensamiento crítico
 - Ingeniería de Software
@@ -39,7 +35,7 @@ Durante el programa se fortalecerán competencias como:
 - Trabajo colaborativo humano + IA
 - SDD - Spec-Driven Development.
 
-- # ⚠ Responsabilidad Profesional
+- # ⚠ Responsabilidad Profesional:
 
 La Inteligencia Artificial **no reemplaza al desarrollador**.
 
@@ -79,9 +75,7 @@ siempre pertenece al desarrollador.
 
 ✅ Colaborar eficazmente con modelos de IA sin perder el pensamiento crítico.
 
-# 🚀 Perfil del Developer al Finalizar
-
-El desarrollador egresado contará con competencias para:
+# 🚀 Perfil del Developer al Finalizar.
 
 - Desarrollador Full Stack asistido por IA
 - Backend Developer
