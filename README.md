@@ -37,4 +37,5 @@ Durante el programa se fortalecerán competencias como:
 - Comunicación técnica
 - Documentación profesional
 - Trabajo colaborativo humano + IA
+- SDD - Spec-Driven Development.
 
