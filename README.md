@@ -39,3 +39,26 @@ Durante el programa se fortalecerán competencias como:
 - Trabajo colaborativo humano + IA
 - SDD - Spec-Driven Development.
 
+- # ⚠ Responsabilidad Profesional
+
+La Inteligencia Artificial **no reemplaza al desarrollador**.
+
+El objetivo es utilizar la IA como:
+
+- Copiloto
+- Asistente técnico
+- Generador de ideas
+- Acelerador del desarrollo
+
+La responsabilidad final sobre:
+
+- Arquitectura
+- Calidad
+- Seguridad
+- Rendimiento
+- Mantenimiento
+- Decisiones técnicas
+
+siempre pertenece al desarrollador.
+
+
